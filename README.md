@@ -1,2 +1,2 @@
 # portfolio
-Simple Landing Page Pribadi
+Personal Page Zavrud
